@@ -1,5 +1,5 @@
-# Hactoberfest2019
-Hacktoberfest Classroom Project 2019
+# Hactoberfest2021
+Hacktoberfest Classroom Project 2021
 
 ## Instructions
 1. Fork this repository
@@ -9,7 +9,7 @@ Hacktoberfest Classroom Project 2019
 
 ## Participants
 
-### Jeff
-[JeffHow](https://github.com/jeffhow/)
+### AK
+(https://github.com/Amaanak101/)
 > Simple doesn't always mean easy
 ---
